@@ -3,8 +3,8 @@
 # │  supported properties, see: https://fshschool.org/docs/sushi/configuration/                    │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 # Oppdater med riktig informasjon
-id: hl7.fhir.no.mal
-canonical: http://hl7.no/fhir/ig/mal
+id: temp.sp.fhir
+canonical: https://github.com/lstubdal/temp-hackaton.git
 name: Mal
 title: "Mal"
 description: Implementasjonsguide for å TODO
@@ -16,8 +16,8 @@ releaseLabel: ci-build
 jurisdiction: urn:iso:std:iso:3166#NO "Norway"
 # Oppdater navn og URL til din organisasjon
 publisher:
-  name: HL7 Norge
-  url: https://www.hl7.no
+  name: SP
+  url: https://www.sykehuspartner.no
 dependencies:
   hl7.fhir.no.basis: 2.2.0
 
