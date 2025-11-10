@@ -33,3 +33,4 @@ Description: "Eksempel på norsk pasient med fødselsnummer, navn og kontaktinfo
 * address.city = "Bergen"
 * address.postalCode = "5020"
 * address.country = "NO"
+* pasientId = "123"
